@@ -6,3 +6,6 @@ conda activate fastapi-crud
 
 ### deactivate virtual environment
 conda deactivate 
+
+### install requirements
+pip install -r requirements.txt
